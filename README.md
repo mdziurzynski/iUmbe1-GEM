@@ -19,10 +19,10 @@ Oleaginous fungi, known for their high lipid content—up to 80% of their dry ma
 Metabolic modeling; Lipid synthesis; Biotechnology; Filamentous fungi; Fatty acids
 
 **Utilisation:** experimental data reconstruction; multi-omics integrative analysis; _in silico_ strain design; model template   
-**Field:** metabolic-network reconstruction  
+**Field:** metabolic-network reconstruction 
 **Type of model:** reconstruction; curated 
-**Omic source:** genomics; transcriptomics, phenomics  
-**Taxonomic name:** _Umbelopsis_  sp. WA50703  
+**Omic source:** genomics; transcriptomics, phenomics 
+**Taxonomic name:** _Umbelopsis_  sp. WA50703 
 **Taxonomy ID:** [taxonomy:3097288](https://identifiers.org/taxonomy:3097288)  
 **Genome ID:** [insdc.gca:GCA_964291815.1](https://identifiers.org/insdc.gca:GCA_964291815.1)  
 **Metabolic system:** general metabolism 
