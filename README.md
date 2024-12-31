@@ -22,12 +22,12 @@ Metabolic modeling; Lipid synthesis; Biotechnology; Filamentous fungi; Fatty aci
 **Field:** metabolic-network reconstruction  
 **Type of model:** reconstruction; curated 
 **Omic source:** genomics; transcriptomics, phenomics  
-**Taxonomic name:** _Umbelopsis_  sp. WA50703
-**Taxonomy ID:** [taxonomy:3097288](https://identifiers.org/taxonomy:3097288)
+**Taxonomic name:** _Umbelopsis_  sp. WA50703  
+**Taxonomy ID:** [taxonomy:3097288](https://identifiers.org/taxonomy:3097288)  
 **Genome ID:** [insdc.gca:GCA_964291815.1](https://identifiers.org/insdc.gca:GCA_964291815.1)  
 **Metabolic system:** general metabolism 
-**Strain:** WA50703
-**Condition:** aerobic; minimal synthetic medium
+**Strain:** WA50703  
+**Condition:** aerobic; minimal synthetic medium  
 
 
 ### Installation
