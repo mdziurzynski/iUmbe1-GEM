@@ -1,0 +1,8 @@
+Substrate	Name_in_Model	Reference	Growth_Rate	Substrate_Uptake_Rate
+glucose	Glucose	Chatzifragkou, A. et al 2010 (10.1002/ejlt.201000027)	0.0466	0.9038
+glucose	Glucose	Chatzifragkou, A. et al 2010 (10.1002/ejlt.201000027)	0.02199	0.4189
+glucose	Glucose	Meeuwse, P et al 2012 (10.1007/s00449-011-0632-x)	0.1571	2.0214
+glucose	Glucose	Fakas, S. et al 2009 (10.1016/j.biombioe.2008.09.006)	0.0068	0.101
+glycerol	Glycerol	Fakas, S. et al 2009 (10.1016/j.biombioe.2008.09.006)	0.0141	0.6742
+xylose	Xylose	Fakas, S. et al 2009 (10.1016/j.biombioe.2008.09.006)	0.0265	0.9326
+xylose	Xylose	Gardeli, C. et al 2017 (10.1111/jam.13587)	0.0084	0.1712

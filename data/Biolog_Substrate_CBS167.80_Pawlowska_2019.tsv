@@ -1,0 +1,96 @@
+Substrate	Name_in_Model	Substrate_Type	Growth_Biolog	Growth_Model
+N-Acetyl-D-Galactosamine 		C	0	0
+N-Acetyl-D-Glucosamine 	N-acetyl-D-glucosamine	C	1	1
+Adonitol	D-ribulose	C	1	1
+D-Arabinose	D-arabinofuranose	C	0	0
+L-Arabinose	L-arabinose	C	1	1
+D-Arabitol	L-arabinitol	C	1	1
+D-Cellobiose	beta-D-cellobiose	C	1	1
+i-Erythritol	erythritol	C	0	0
+D-Fructose 	beta-D-fructofuranose	C	1	1
+L-Fucose		C	0	0
+D-Galactose	D-galactose	C	1	1
+D-Galacturonic Acid 	D-galactopyranuronate	C	1	1
+D-Gluconic Acid	D-gluconate	C	0	0
+D-Glucosamine	D-glucosamine	C	1	1
+α-D-Glucose 	D-glucose	C	1	1
+Glucose-1-Phosphate 	alpha-D-glucopyranose 1-phosphate	C	1	1
+D-Glucuronic Acid	D-glucopyranuronate	C	1	0
+Glycerol	glycerol	C	1	1
+m-Inositol	myo-inositol	C	0	0
+Maltose	maltose	C	1	1
+Maltotriose	maltotriose	C	1	1
+D-Mannose	D-mannopyranose	C	1	1
+D-Melibiose	melibiose	C	0	0
+α-Methyl-D-Galactoside 	an alpha-D-galactoside	C	0	0
+β-Methyl-D-Galactoside 	a beta-D-galactoside	C	0	0
+D-Raffinose	raffinose	C	1	1
+D-Sorbitol 	D-sorbitol	C	1	1
+L-Sorbose	L-sorbopyranose	C	0	0
+Stachyose	stachyose	C	0	0
+D-Trehalose	alpha,alpha-trehalose	C	1	1
+Xylitol	xylitol	C	0	1
+D-Xylose	D-xylose	C	1	1
+γ-Amino-butyric Acid 	4-aminobutanoate	C	0	0
+Fumaric Acid 	fumarate	C	0	1
+β-Hydroxy-butyric Acid 	(S)-3-hydroxybutanoate	C	0	1
+γ-Hydroxy-butyric Acid 	4-hydroxybutanoate	C	1	1
+α-Keto-glutaric Acid 	2-oxoglutarate	C	0	1
+L-Lactic Acid 	(S)-lactate	C	0	1
+D-Malic Acid		C	0	0
+L-Malic Acid	(S)-malate	C	0	0
+Succinamic Acid	succinamate	C	0	0
+Succinic Acid	succinate	C	0	1
+N-Acetly-L-Glutamic Acid 	N-acetyl-L-glutamate	C	0	0
+L-Alanine	L-alanine	C	1	1
+L-Asparagine	L-asparagine	C	1	1
+L-Aspartic Acid	L-aspartate	C	0	1
+L-Glutamic Acid	L-glutamate	C	1	1
+L-Ornithine	L-ornithine	C	1	1
+L-Phenylalanine	L-phenylalanine	C	0	0
+L-Proline	L-proline	C	0	1
+L-Pyroglutamic Acid 	5-oxo-L-proline	C	0	0
+L-Serine	L-serine	C	0	1
+L-Threonine	L-threonine	C	0	1
+2-Amino Ethanol	ethanolamine	C	0	0
+Putrescine	putrescine	C	1	1
+Adenosine	adenosine	C	1	1
+Uridine 	uridine	C	0	0
+Adenosine-5'-Monophosphate 	AMP	C	0	0
+Tween 80		C	1	0
+N-Acetyl-D-Mannosamine 		C	0	0
+Amygdalin		C	0	0
+Arbutin	arbutrin	C	1	1
+α-Cyclodextrin 		C	1	0
+β-Cyclodextrin 		C	1	0
+Dextrin		C	1	0
+Gentiobiose	gentiobiose	C	1	1
+Glucuronamide		C	0	0
+Glycogen	glycogen	C	1	1
+2-Keto-D-Gluconic Acid 	2-keto-D-gluconate	C	1	1
+α-D-Lactose 	Lactose	C	1	1
+Lactulose 	Lactulose	C	1	1
+Maltitol	maltitol	C	1	1
+D-Mannitol	mannitol	C	1	1
+D-Melezitose	melezitose	C	1	1
+α-Methyl-D-Glucoside 		C	0	0
+β-Methyl-D-Glucoside 		C	1	0
+Palatinose	palatinose	C	1	1
+D-Psicose 		C	0	0
+L-Rhamnose		C	1	0
+D-Ribose	D-ribofuranose	C	1	1
+Salicin		C	0	0
+Sedoheptulosan 		C	0	0
+Sucrose		C	0	0
+D-Tagatose		C	0	0
+Turanose	turanose	C	1	1
+Bromosuccinic Acid 		C	0	0
+p-Hydroxyphenyl-acetic Acid 		C	0	0
+D-Lactic Acid Methyl Ester 		C	0	0
+Quinic Acid 		C	0	0
+D-Saccharic Acid		C	0	0
+Sebacic Acid 		C	1	0
+Succinic Acid Mono-Methyl Ester		C	0	0
+Alaninamide 	alaninamide	C	1	1
+L-Alanyl-Glycine	L-alanyl-glycine	C	1	1
+Glycyl-L-Glutamic Acid 	glycyl-L-glutamate	C	1	1
